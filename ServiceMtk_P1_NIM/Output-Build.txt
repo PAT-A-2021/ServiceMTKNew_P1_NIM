@@ -1,0 +1,4 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: ServiceMtk_P1_NIM, Configuration: Debug Any CPU ------
+1>  ServiceMtk_P1_NIM -> C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServiceMtk_P1_NIM\ServiceMtk_P1_NIM\bin\Debug\ServiceMtk_P1_NIM.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
